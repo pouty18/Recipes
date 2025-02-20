@@ -29,7 +29,7 @@ struct RecipeDetailView: View {
                 .foregroundStyle(LinearGradient(stops: [.init(color: Color.black.opacity(0.5), location: 0), .init(color: Color.black.opacity(0), location: 1)], startPoint: .top, endPoint: .bottom))
                 .frame(height: 150)
               Spacer()
-            }.border(.green)
+            }
           }
           .ignoresSafeArea(.all, edges: .top)
       }
