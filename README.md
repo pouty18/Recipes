@@ -1,6 +1,16 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 
 
+https://github.com/user-attachments/assets/71793b62-5f01-4388-9d06-52a20ae48c0c
+
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 18 43](https://github.com/user-attachments/assets/8e39f800-d397-4132-a4bc-322255c42c3d)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 18 49](https://github.com/user-attachments/assets/82e73e0e-d4c1-46df-91ae-f934eeb9d468)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 18 54](https://github.com/user-attachments/assets/d7205a8b-77bd-462d-ba67-c926d210590a)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 18 58](https://github.com/user-attachments/assets/fd30a2ed-1d37-463b-831a-3772adb2be34)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 19 01](https://github.com/user-attachments/assets/f602e87b-439b-45f5-b12b-d3a23bbad780)
+![Simulator Screenshot - iPhone 15 Pro - 2025-02-20 at 07 19 08](https://github.com/user-attachments/assets/518f63a3-f898-4a27-99b6-6a5a469a5a9f)
+
+
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I prioritized the initial project arcitecture as well as an emphasis on ensuring simple ViewModel to make for easy testing.
 
@@ -18,7 +28,7 @@ The only other tradeoff I was considering was building a RecipeService or Recipe
 
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
-Two parts, the RecipeCore doesn't have amazing support for environment toggling and preview support. I wanted to model the Swift-Dependencies framework that I've recently worked with but ulitmately decided off that. Also, the RecipeDetail screen is something I added, but then didn't enhance in anyway. These are likely the weakest parts of the project in my opinion. 
+The RecipeCore doesn't have amazing support for environment toggling and preview support. I wanted to model the Swift-Dependencies framework that I've recently worked with but ulitmately decided off that. Also, the RecipeDetail screen is something I added, but then didn't enhance in anyway. And I think any loading state could be made better (both view's and images), I didn't focus on this either. These are likely the weakest parts of the project in my opinion. 
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 I don't have anything else. I enjoyed working with the three different endpoints and I thouroughly appreciate the detail involved in creating a relatively straightforward take home assessment. 
